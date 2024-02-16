@@ -1,10 +1,45 @@
+
 # QAntiVirus
-The Q AntiVirus using of pyqt6 and python version 3.11.3.
-1.The you need install python interpreter version 3.11.3.
-2.For use of this project you need IDE pycharm is best for python and you can u>
-3.Its best practice you using the virtual enviroment for your project.
-4.All of requirement for this project you can install by pip from "requirements>
-5.For change python code to executable windows or any operating system you can >
-6.If you need change your file to installer file or package file for windows yo>
 
+QAntiVirus is a project aimed at developing a lightweight and efficient antivirus solution.
 
+## Overview
+
+QAntiVirus is designed to provide robust protection against malware, viruses, and other malicious threats while being lightweight and easy to use. It offers features such as real-time scanning, online scanning using two well-known api, and customizable scanning options.
+
+## Features
+
+- Real-time scanning: Detect and remove threats as they occur.
+- Online url and file scanning with two best api "Total Virus" and "Meda Defender".
+- API: If online api detected a file as malicios then we can add to offline scanning.
+- Customizable scanning options: Configure scan settings to suit your needs.
+- Quarantine: Safely isolate and manage infected files.
+- Url Checker: with api we can check malicious urls.
+- User friendly interface.
+- Dark mode and light.
+  
+
+## Installation
+
+To install QAntiVirus, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/Eblali/QAntiVirus.git`
+2. With auto-py-to-exe can create an installer package to windows.
+
+## Usage
+
+After installing QAntiVirus, you can launch the application and configure it according to your preferences. You can initiate scans, view scan results, and manage quarantined files through the user-friendly interface.
+
+## Contributing
+
+We welcome contributions from the community to help improve QAntiVirus. If you would like to contribute, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/my-feature`.
+3. Make your changes and commit them: `git commit -am 'Add new feature'`.
+4. Push to the branch: `git push origin feature/my-feature`.
+5. Submit a pull request.
+
+## Contact
+
+For any questions or inquiries, please contact [Eblali](https://github.com/Eblali).
